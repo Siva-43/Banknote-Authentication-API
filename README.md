@@ -18,11 +18,17 @@ This project is a machine learning API built using FastAPI to predict whether a 
 
 Banknote-Authentication-API/
 │
+
 ├── main.py
+
 ├── model.pkl
+
 ├── BankNote_Authentication.csv
+
 ├── model.ipynb
+
 ├── requirements.txt
+
 └── README.md
 
 
