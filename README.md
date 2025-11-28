@@ -4,15 +4,15 @@ This project is a machine learning API built using FastAPI to predict whether a 
 
 🚀 Features
 
-FastAPI machine learning prediction API
+     --FastAPI machine learning prediction API
 
-Trained model (model.pkl)
+     --Trained model (model.pkl)
 
-/predict POST endpoint
+     --/predict POST endpoint
 
-Example usage with JSON
+     --Example usage with JSON
 
-Lightweight and fast
+     --Lightweight and fast
 
 📂 Project Structure
 ├── main.py
@@ -23,14 +23,18 @@ Lightweight and fast
 └── README.md
 
 ⚙️ How to Run Locally
+
 1️⃣ Install dependencies
-  pip install -r requirements.txt
+
+   pip install -r requirements.txt
 
 2️⃣ Start the FastAPI server
-uvicorn main:app --reload
+
+   uvicorn main:app --reload
 
 3️⃣ Open your browser
-http://127.0.0.1:8000/docs
+
+   http://127.0.0.1:8000/docs
 
 
 This opens the interactive Swagger UI where you can test the API.
